@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UdemyS11PackagesChallengeNumbers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UdemyS11PackagesChallengeNumbers_jar</output-path>
+    <root id="archive" name="UdemyS11PackagesChallengeNumbers.jar">
+      <element id="module-output" name="UdemyS11PackagesChallengeNumbers" />
+    </root>
+  </artifact>
+</component>
